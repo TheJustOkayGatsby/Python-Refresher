@@ -1,8 +1,9 @@
 # Python-Refresher
-Selections of Exercises and Solutions for Relearning Python for ML over four months
+Selections of Exercises and Solutions for Relearning Python for ML
 
 
 Concepts implemented:
+
 **Basic**:
 - Input/Output (I/O): Reading and printing data to and from the console.
 - Variables: Declaring and using variables to store data.
